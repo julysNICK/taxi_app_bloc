@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051048725158",
+    "project_id": "tax-app-9d6c7",
+    "storage_bucket": "tax-app-9d6c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051048725158:android:2422f674dd0f9a36e90267",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051048725158-ntkcpt7t1865465lpgtmeq9vji2ndor6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dW3pgKKDzrt6OPL71eHX1rhNPl3TKjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051048725158-ntkcpt7t1865465lpgtmeq9vji2ndor6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
